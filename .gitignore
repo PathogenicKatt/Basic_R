@@ -1,5 +1,11 @@
+# R
 .Rdata
 .Rhistory
 .Rproj.user
+
+# Directories
 /data/
 /output/
+
+# System
+.DS_Store
